@@ -1,5 +1,5 @@
 package com.example.googletutorial2;
-//ciaoooooooo! E dai funzionaaaaaaaaa!!! AAAAAAA!!
+//ciaoooooooo! E dai funzionaaaaaaaaa!!!
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
